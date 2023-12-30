@@ -2,6 +2,10 @@
 
 ###
 
+<img align="center" width="850" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+
+###
+
 <p align="left">Greetings from the enchanting city of Addis Ababa, where technology meets tradition, and innovation echoes through the vibrant streets. I am Yohannes Teshome, a dynamic web and software developer, weaving lines of code into the rich tapestry of Ethiopia's digital future.<br><br>🚀 Join the Journey:<br>Embark on this exhilarating journey with me as we shape the future of technology, one commit at a time. From the bustling streets of Addis Ababa to the limitless expanse of the digital frontier, let's code, create, and innovate together.<br><br>📫 Connect with Me:<br>Feel free to explore my GitHub repositories, delve into the code, and join the conversation. Collaboration fuels innovation, and your insights are invaluable on this digital odyssey. Let's build something extraordinary!<br><br>🌐 Digital Dreams Await - Yohannes Teshome</p>
 
 ###
@@ -56,8 +60,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
 
