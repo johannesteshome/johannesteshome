@@ -8,17 +8,19 @@
 
 <p align="left">Hello there, I am Yohannes Teshome, a dynamic web and software developer, weaving lines of code into the rich tapestry of Ethiopia's digital future.<br><br>📫 Connect with Me:<br>Feel free to explore my GitHub repositories, delve into the code, and join the conversation. Collaboration fuels innovation, and your insights are invaluable on this digital odyssey. Let's build something extraordinary!<br><br>🌐 Digital Dreams Await - Yohannes Teshome</p>
 
-###
-
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=johannesteshome&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=johannesteshome&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<br>
+<br>
 
 
-###
+<img src="https://github-readme-stats.vercel.app/api?username=johannesteshome&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=johannesteshome&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
-<div align="left">
+<br>
+<br>
+
+## My Tools
+
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -54,11 +56,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
 
-###
+<br>
+<br>
 
-###
+## You can find me on:
 
-<div align="left">
+<div>
   <a href="https://instagram.com/_yohannes.teshome_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -88,4 +91,3 @@
 
 <img height="200" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"  />
 
-###
