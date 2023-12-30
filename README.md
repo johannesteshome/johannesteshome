@@ -21,6 +21,7 @@
   <img src="https://profile-counter.glitch.me/johannesteshome/count.svg?"  />
 </div>
 
+
 ###
 
 <div align="left">
@@ -90,5 +91,7 @@
 ###
 
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/johannesteshome/johannesteshome/output/snake.svg" alt="Snake animation" />
 
 ###
