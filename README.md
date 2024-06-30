@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yohannes Teshome and I'm a software developer, from Ethiopia.</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+my+name+is+Yohannes+Teshome!;I+am+a+Software+Engineer.+;React.js%2C+Node%2C+Express)](https://git.io/typing-svg)
 
 ###
 
