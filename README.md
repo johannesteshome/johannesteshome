@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hello there, I am Yohannes Teshome, a dynamic web and software developer, weaving lines of code into the rich tapestry of Ethiopia's digital future.<br><br>📫 Connect with Me:<br>Feel free to explore my GitHub repositories, delve into the code, and join the conversation. Collaboration fuels innovation. Let's build something extraordinary!<br><br>🌐 Digital Dreams Await - Yohannes Teshome</p>
+<p align="left">Hello there, I am Yohannes Teshome, a software engineer based in Berlin.<br><br>📫 Connect with Me:<br>Feel free to explore my GitHub repositories, delve into the code, and join the conversation. Collaboration fuels innovation. Let's build something extraordinary!<br><br>🌐 Digital Dreams Await - Yohannes Teshome</p>
 
 <br>
 <br>
